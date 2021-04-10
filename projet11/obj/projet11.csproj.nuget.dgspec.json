@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hassa\\source\\repos\\projet11\\projet11\\projet11.csproj": {}
+    "M:\\projetAssurance\\projet11\\projet11\\projet11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hassa\\source\\repos\\projet11\\projet11\\projet11.csproj": {
+    "M:\\projetAssurance\\projet11\\projet11\\projet11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hassa\\source\\repos\\projet11\\projet11\\projet11.csproj",
+        "projectUniqueName": "M:\\projetAssurance\\projet11\\projet11\\projet11.csproj",
         "projectName": "projet11",
-        "projectPath": "C:\\Users\\hassa\\source\\repos\\projet11\\projet11\\projet11.csproj",
+        "projectPath": "M:\\projetAssurance\\projet11\\projet11\\projet11.csproj",
         "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hassa\\source\\repos\\projet11\\projet11\\obj\\",
+        "outputPath": "M:\\projetAssurance\\projet11\\projet11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
